@@ -27,7 +27,7 @@ These methods preserve client privacy by sharing only models, scores, or secure 
 
 ---
 
-## Repository Structure
+Repository Structure
 ├── Code/                    # Jupyter notebooks (experiments & plots)
 │   ├── equal_quorum.ipynb
 │   ├── weighted_quorum.ipynb
