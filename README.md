@@ -27,18 +27,19 @@ These methods preserve client privacy by sharing only models, scores, or secure 
 
 ---
 
-Repository Structure
-├── Code/                    # Jupyter notebooks (experiments & plots)
-│   ├── equal_quorum.ipynb
-│   ├── weighted_quorum.ipynb
-│   └── utils.ipynb
-├── Data/                    # Dataset files (tracked via Git LFS)
-│   ├── x.csv
-│   └── README.md
-├── References/              # Bibliographic references
-│   └── references.bib
-├── .gitattributes          # Git LFS configuration
-└── README.md               # This file
+## Repository Structure
+
+- **Code/** - Jupyter notebooks (experiments & plots)
+  - `equal_quorum.ipynb`
+  - `weighted_quorum.ipynb`
+  - `utils.ipynb`
+- **Data/** - Dataset files (tracked via Git LFS)
+  - `x.csv`
+  - `README.md`
+- **References/** - Bibliographic references
+  - `references.bib`
+- `.gitattributes` - Git LFS configuration
+- `README.md` - This file
 
 ---
 
