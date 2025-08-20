@@ -26,6 +26,7 @@ This project demonstrates two practical approaches for federated anomaly detecti
 These methods preserve client privacy by sharing only models, scores, or secure aggregates — no raw data leaves clients.
 
 ---
+
 ## Repository Structure
 Code/                       # Jupyter notebooks (experiments & plots)
   equal_quorum.ipynb
