@@ -32,14 +32,13 @@ These methods preserve client privacy by sharing only models, scores, or secure 
 │ ├── equal_quorum.ipynb
 │ ├── weighted_quorum.ipynb
 │ └── utils.ipynb
-├── Data/ # Dataset (large files tracked with Git LFS)
+├── Data/ # Dataset files (tracked via Git LFS)
 │ ├── x.csv
 │ └── README.md
-├── References/ # BibTeX and bibliographic references
+├── References/ # Bibliographic references
 │ └── references.bib
 ├── .gitattributes # Git LFS configuration
 └── README.md # This file
-
 
 ---
 
